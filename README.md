@@ -90,6 +90,7 @@ Automated validation and monitoring framework ensuring data reliability and qual
 
 ## 🎓 Certifications
 
+- Big Data & Analytics
 - Data Engineering Fundamentals
 - NLW Pocket Mobile - Kotlin
 
