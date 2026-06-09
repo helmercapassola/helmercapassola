@@ -120,11 +120,11 @@ Alongside my engineering career, I contribute to education and mentoring:
 
 ## 🎯 2026 Goals
 
-- Build advanced Data Engineering projects
-- Contribute to open-source initiatives
-- Deepen expertise in Databricks and Spark
-- Earn cloud and data platform certifications
-- Share knowledge through technical content
+✔️ Build advanced Data Engineering projects  
+✔️ Contribute to open-source initiatives  
+✔️ Deepen expertise in Databricks and Apache Spark  
+✔️ Earn cloud and data platform certifications  
+✔️ Share knowledge through technical content creation 
 
 ---
 
