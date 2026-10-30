@@ -1,115 +1,128 @@
 <div align="center">
 
-# Hi 👋, I'm Helmer Capassola
+# Helmer Capassola
 
-### Data Engineer | Tech Lead | Software Engineer
+### Data Engineer | Data Analyst | Business Intelligence
 
-I build data platforms, batch and streaming pipelines, and analytics solutions that turn data into useful insights.
+Designing data pipelines, analytics solutions, and data products that turn information into insight.
 
-📍 Luanda, Angola · 🌍 Open to remote opportunities · 📧 helmercap@gmail.com
+📍 Luanda, Angola · 🌍 Open to remote opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/helmercapassola)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://helmercap11.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmercapassola)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8957E5?style=for-the-badge&logo=githubpages&logoColor=white)](https://helmercap11.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helmercap@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Data and Software Engineering Lead focused on designing and building data solutions, analytics platforms, and business intelligence systems. My work spans data ingestion, transformation, orchestration, streaming, and reporting.
+I'm a Data Engineer and Data Analyst working across data ingestion, transformation, orchestration, streaming, and business intelligence. I enjoy building reliable batch and real-time pipelines and turning complex data into useful insights.
 
-Areas I work in:
-
-- Data engineering and analytics engineering
-- Batch and real-time data pipelines
-- Lakehouse and data platform architecture
-- Business intelligence and data visualization
-- Software architecture and technical leadership
+**Areas of interest:** Data Engineering · Analytics · Lakehouse Architecture · Business Intelligence · Data Visualization
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-This stack reflects technologies I've used or have been actively studying and working with recently, as well as tools featured in my projects.
+This stack includes technologies I've used, studied, and worked with recently.
 
 ### Data Engineering & Streaming
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### Cloud Data & Analytics
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?logo=microsoftfabric&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoftfabric&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Development & Delivery
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-- **[Kafka Sales Streaming](https://github.com/helmercapassola/kafka-sales-streaming)** — A real-time sales event streaming pipeline built around Apache Kafka.
-- **[Forex Hybrid ETL](https://github.com/helmercapassola/forex-hybrid-etl)** — A data engineering project for foreign exchange data ingestion and analysis, combining batch and streaming approaches and Apache Airflow orchestration.
-- **[Angola ANPG Data Engineering](https://github.com/helmercapassola/angola-anpg-data-engineering)** — Data engineering work focused on Angola's oil and gas production data.
-- **[Data Engineering with NotebookLM](https://github.com/helmercapassola/engenharia_de_dados_notebooklm)** — A learning project exploring data engineering concepts with NotebookLM.
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Kafka Sales Streaming
+A real-time sales event streaming project built around Apache Kafka.
+
+[View repository →](https://github.com/helmercapassola/kafka-sales-streaming)
+
+</td>
+<td width="50%" valign="top">
+
+### 💱 Forex Hybrid ETL
+Foreign exchange data ingestion and analysis, combining batch and streaming workflows with Apache Airflow.
+
+[View repository →](https://github.com/helmercapassola/forex-hybrid-etl)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛢️ Angola ANPG Data Engineering
+Data engineering project focused on Angola's oil and gas production data.
+
+[View repository →](https://github.com/helmercapassola/angola-anpg-data-engineering)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Data Engineering with NotebookLM
+A learning project exploring data engineering concepts with NotebookLM.
+
+[View repository →](https://github.com/helmercapassola/engenharia_de_dados_notebooklm)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ## GitHub Analytics
 
-<!-- These cards read repository and contribution data from GitHub; no manual README updates are needed. -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=helmercapassola&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats, including all commits" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmercapassola&layout=compact&theme=tokyonight" alt="Most-used languages across public repositories" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-count/helmercapassola?style=for-the-badge&label=Public%20repositories" alt="Public repository count" />
-</p>
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhelmercapassola&query=%24.public_repos&label=Public%20repositories&style=for-the-badge&color=8957E5)
 
-The cards update from GitHub activity, and the repository badge tracks the number of public repositories on my account. Updates may be subject to the services' cache refresh intervals.
+<img src="https://streak-stats.demolab.com?user=helmercapassola&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
+
+</div>
+
+The repository count is fetched from the GitHub API, and contribution streaks update from GitHub activity. These live images may refresh according to each service's cache interval.
 
 ---
 
-## Certifications & Learning
+## Beyond the Code
 
 - Big Data and Analytics
 - Data Engineering Fundamentals
 - NLW Pocket Mobile — Kotlin
-
-I also teach and mentor software engineering, supervise final-year projects, and support programming education.
-
----
-
-## Current Focus
-
-- Building reliable batch and real-time data pipelines
-- Deepening my work with Databricks and Microsoft Fabric
-- Applying Apache Airflow and Apache Kafka to production-style data workflows
-- Exploring lakehouse architecture, data governance, and analytics engineering
+- University lecturer, software engineering mentor, and final-year project supervisor
 
 ---
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/helmercapassola](https://www.linkedin.com/in/helmercapassola)
-- Email: [helmercap@gmail.com](mailto:helmercap@gmail.com)
-- Portfolio: [helmercap11.github.io](https://helmercap11.github.io)
 
 <div align="center">
 
-### Turning raw data into valuable insights through engineering.
+### Turning data into decisions.
 
-⭐ Explore my repositories and feel free to connect!
+[Explore my repositories](https://github.com/helmercapassola?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/helmercapassola)
 
 </div>
