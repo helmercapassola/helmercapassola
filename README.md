@@ -2,13 +2,11 @@
 
 # Hi 👋, I'm Helmer Capassola
 
-### Senior Data Engineer | Tech Lead | Software Engineer
+### Data Engineer | Tech Lead | Software Engineer
 
-Building scalable data platforms, modern ETL/ELT pipelines, analytics solutions and data-driven products.
+I build data platforms, batch and streaming pipelines, and analytics solutions that turn data into useful insights.
 
-📍 Luanda, Angola  
-🌍 Open to Remote Opportunities  
-📧 helmercap@gmail.com
+📍 Luanda, Angola · 🌍 Open to remote opportunities · 📧 helmercap@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/helmercapassola)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://helmercap11.github.io)
@@ -17,129 +15,101 @@ Building scalable data platforms, modern ETL/ELT pipelines, analytics solutions 
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Data & Software Engineering Lead with experience designing and implementing scalable data solutions, analytics platforms, and business intelligence systems.
+I'm a Data and Software Engineering Lead focused on designing and building data solutions, analytics platforms, and business intelligence systems. My work spans data ingestion, transformation, orchestration, streaming, and reporting.
 
-My expertise includes building ETL/ELT pipelines, data warehouses, analytical dashboards, and modern data architectures using Python, SQL, Databricks, PostgreSQL, and Power BI.
+Areas I work in:
 
-I am passionate about:
-
-- Data Engineering
-- Analytics Engineering
-- Data Platforms
-- Business Intelligence
-- Software Architecture
-- Team Leadership
+- Data engineering and analytics engineering
+- Batch and real-time data pipelines
+- Lakehouse and data platform architecture
+- Business intelligence and data visualization
+- Software architecture and technical leadership
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Data Engineering
+This stack reflects technologies I've used or have been actively studying and working with recently, as well as tools featured in my projects.
+
+### Data Engineering & Streaming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FEAA2D?logo=apache-spark&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Pipelines-blue)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 
-### Analytics & BI
+### Cloud Data & Analytics
 
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?logo=microsoftfabric&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Power%20BI-yellow)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### DevOps & Software Engineering
+### Development & Delivery
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
+- **[Kafka Sales Streaming](https://github.com/helmercapassola/kafka-sales-streaming)** — A real-time sales event streaming pipeline built around Apache Kafka.
+- **[Forex Hybrid ETL](https://github.com/helmercapassola/forex-hybrid-etl)** — A data engineering project for foreign exchange data ingestion and analysis, combining batch and streaming approaches and Apache Airflow orchestration.
+- **[Angola ANPG Data Engineering](https://github.com/helmercapassola/angola-anpg-data-engineering)** — Data engineering work focused on Angola's oil and gas production data.
+- **[Data Engineering with NotebookLM](https://github.com/helmercapassola/engenharia_de_dados_notebooklm)** — A learning project exploring data engineering concepts with NotebookLM.
+
+---
+
+## GitHub Analytics
+
+<!-- These cards read repository and contribution data from GitHub; no manual README updates are needed. -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helmercapassola&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmercapassola&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=helmercapassola&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats, including all commits" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmercapassola&layout=compact&theme=tokyonight" alt="Most-used languages across public repositories" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/repo-count/helmercapassola?style=for-the-badge&label=Public%20repositories" alt="Public repository count" />
+</p>
 
-## 🏆 Featured Projects
-
-### 📈 ETL Sales Pipeline
-End-to-end ETL pipeline using Python and PostgreSQL for data ingestion, transformation and loading.
-
-### 🏗️ Data Warehouse Retail
-Dimensional modeling project implementing Star Schema and analytical reporting.
-
-### ⚡ Real-Time Data Pipeline
-Event-driven architecture using streaming technologies and scalable data processing.
-
-### 📊 Power BI Business Insights
-Executive dashboard delivering KPIs and business intelligence for decision-making.
-
-### 🔍 Data Quality Framework
-Automated validation and monitoring framework ensuring data reliability and quality.
+The cards update from GitHub activity, and the repository badge tracks the number of public repositories on my account. Updates may be subject to the services' cache refresh intervals.
 
 ---
 
-## 🎓 Certifications
+## Certifications & Learning
 
-- Big Data & Analytics
+- Big Data and Analytics
 - Data Engineering Fundamentals
-- NLW Pocket Mobile - Kotlin
+- NLW Pocket Mobile — Kotlin
+
+I also teach and mentor software engineering, supervise final-year projects, and support programming education.
 
 ---
 
-## 👨‍🏫 Teaching & Mentoring
+## Current Focus
 
-Alongside my engineering career, I contribute to education and mentoring:
-
-- University Lecturer
-- Software Engineering Mentor
-- Final Year Project Supervisor
-- Programming Instructor
-- Technical Team Leader
+- Building reliable batch and real-time data pipelines
+- Deepening my work with Databricks and Microsoft Fabric
+- Applying Apache Airflow and Apache Kafka to production-style data workflows
+- Exploring lakehouse architecture, data governance, and analytics engineering
 
 ---
 
-## 📚 Currently Learning
+## Connect
 
-- Apache Airflow
-- Apache Spark
-- Microsoft Fabric
-- Lakehouse Architecture
-- Data Governance
-- Analytics Engineering
-
----
-
-## 🎯 2026 Goals
-
-✔️ Build advanced Data Engineering projects  
-✔️ Contribute to open-source initiatives  
-✔️ Deepen expertise in Databricks and Apache Spark  
-✔️ Earn cloud and data platform certifications  
-✔️ Share knowledge through technical content creation 
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/helmercapassola
-- Email: helmercap@gmail.com
-
----
+- LinkedIn: [linkedin.com/in/helmercapassola](https://www.linkedin.com/in/helmercapassola)
+- Email: [helmercap@gmail.com](mailto:helmercap@gmail.com)
+- Portfolio: [helmercap11.github.io](https://helmercap11.github.io)
 
 <div align="center">
 
-### "Transforming raw data into valuable insights through engineering excellence."
+### Turning raw data into valuable insights through engineering.
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Explore my repositories and feel free to connect!
 
 </div>
