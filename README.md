@@ -2,7 +2,7 @@
 
 # Helmer Capassola
 
-### Data Engineer | Data Analyst | Business Intelligence
+### Data Engineer | Data Analyst | BI Analyst
 
 Designing data pipelines, analytics solutions, and data products that turn information into insight.
 
@@ -57,7 +57,9 @@ This stack includes technologies I've used, studied, and worked with recently.
 <td width="50%" valign="top">
 
 ### ⚡ Kafka Sales Streaming
-A real-time sales event streaming project built around Apache Kafka.
+A real-time sales event pipeline with producers and consumers, Kafka topics, and PostgreSQL persistence.
+
+`Python` `Apache Kafka` `PostgreSQL` `Docker Compose`
 
 [View repository →](https://github.com/helmercapassola/kafka-sales-streaming)
 
@@ -65,7 +67,9 @@ A real-time sales event streaming project built around Apache Kafka.
 <td width="50%" valign="top">
 
 ### 💱 Forex Hybrid ETL
-Foreign exchange data ingestion and analysis, combining batch and streaming workflows with Apache Airflow.
+Foreign exchange data ingestion and analysis, combining scheduled batch workflows with real-time Kafka streaming and PostgreSQL storage.
+
+`Python` `Apache Airflow` `Apache Kafka` `PostgreSQL` `Docker`
 
 [View repository →](https://github.com/helmercapassola/forex-hybrid-etl)
 
@@ -75,7 +79,9 @@ Foreign exchange data ingestion and analysis, combining batch and streaming work
 <td width="50%" valign="top">
 
 ### 🛢️ Angola ANPG Data Engineering
-Data engineering project focused on Angola's oil and gas production data.
+An analytics lakehouse for historical oil and gas production data from Angola, with notebooks and Power BI reporting. Fabric pipeline orchestration is still in progress.
+
+`Microsoft Fabric` `Fabric Lakehouse` `Python` `SQL` `Power BI`
 
 [View repository →](https://github.com/helmercapassola/angola-anpg-data-engineering)
 
@@ -104,7 +110,7 @@ A learning project exploring data engineering concepts with NotebookLM.
 
 </div>
 
-The repository count is fetched from the GitHub API, and contribution streaks update from GitHub activity. These live images may refresh according to each service's cache interval.
+The repository badge reads the current public repository count from the GitHub API. The contribution card shows GitHub contributions over time, including the total contribution count and streaks; **it is not a commit-only counter**. Both update automatically, subject to each service's cache interval.
 
 ---
 
