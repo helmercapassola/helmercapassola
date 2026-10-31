@@ -2,12 +2,15 @@
 
 # Helmer Capassola
 
-### Data Engineer | Data Analyst | BI Analyst
+### Data Engineer | Analytics | Business Intelligence
 
-Designing data pipelines, analytics solutions, and data products that turn information into insight.
+Data Engineer with 5+ years of experience designing reliable data pipelines and
+analytics solutions. I work across ETL/ELT, data quality, batch and streaming
+architectures, and lakehouse platforms to turn complex data into trusted,
+business-ready insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmercapassola)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8957E5?style=for-the-badge&logo=githubpages&logoColor=white)](https://helmercap11.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8957E5?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://helmercapassola.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helmercap@gmail.com)
 
 </div>
@@ -16,9 +19,11 @@ Designing data pipelines, analytics solutions, and data products that turn infor
 
 ## About
 
-I'm a Data Engineer and Data Analyst working across data ingestion, transformation, orchestration, streaming, and business intelligence. I enjoy building reliable batch and real-time pipelines and turning complex data into useful insights.
+I build and improve data solutions from ingestion through transformation and orchestration to analytics. My experience includes integrating relational and non-relational sources, improving data quality, optimizing processing, and delivering batch and streaming pipelines with Python, SQL, Apache Airflow, and Apache Kafka.
 
-**Areas of interest:** Data Engineering · Analytics · Lakehouse Architecture · Business Intelligence · Data Visualization
+I've worked with Databricks and Spark Declarative Pipelines, Microsoft Fabric, and AWS S3, and I bring technical leadership and project delivery experience in Agile environments.
+
+**Focus areas:** Data Engineering · ETL/ELT · Streaming · Lakehouse Architecture · Analytics · Business Intelligence
 
 ---
 
@@ -38,6 +43,7 @@ This stack includes technologies I've used, studied, and worked with recently.
 ### Cloud Data & Analytics
 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoftfabric&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -100,6 +106,24 @@ A learning project exploring data engineering concepts with NotebookLM.
 
 ---
 
+## Delivery & Collaboration
+
+Agile / Scrum · Sprint planning · Jira · Confluence · Stakeholder management ·
+Technical mentoring
+
+---
+
+## Education & Certifications
+
+- **MSc in Mobile Application Development (EQF Level 7)** — Universidade Gregório Semedo
+- **BSc in Computer Engineering** — Universidade Gregório Semedo
+- Docker Accelerated Container — Infinity Big Data
+- Big Data & Analytics — FIAP
+- Fundamentals of Data Engineering — Data Science Academy
+- NLW Pocket: Mobile — Kotlin — Rocketseat
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -116,10 +140,8 @@ The repository badge reads the current public repository count from the GitHub A
 
 ## Beyond the Code
 
-- Big Data and Analytics
-- Data Engineering Fundamentals
-- NLW Pocket Mobile — Kotlin
-- University lecturer, software engineering mentor, and final-year project supervisor
+I also bring experience as a university lecturer, software engineering mentor,
+and final-year project supervisor.
 
 ---
 
